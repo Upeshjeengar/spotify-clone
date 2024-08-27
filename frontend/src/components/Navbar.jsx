@@ -27,8 +27,10 @@ const Navbar = () => {
           >
             Go to Admin Panel
           </p>
-          <p className="bg-black py-1 px-3 rounded-2xl text-[15px] hidden md:block cursor-pointer">
-            Install App
+          <p 
+            onClick={() => window.location.href = "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_IN"} 
+            className="bg-black py-1 px-3 rounded-2xl text-[15px] hidden md:block cursor-pointer">
+              Install App
           </p>
           <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">
             UJ
