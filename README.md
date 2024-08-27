@@ -64,8 +64,8 @@ To set up this project locally, follow these steps:
     ```
 
 ## Usage
-
-After following the installation steps, open your browser and go to `http://localhost:5173` to access the frontend. The backend runs on `http://localhost:4000` by default.
+After following the installation steps, open your browser and go to `http://localhost:5173` to access the frontend. The backend runs on `http://localhost:4000` by default.  
+For deployment you can remove admin page by updating `./frontend/src/components/Navbar.jsx`, `./frontend/src/App.jsx` and delete `./frontend/src/spotify-admin`
 
 ## Screenshots
 
