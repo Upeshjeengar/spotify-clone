@@ -40,7 +40,7 @@ const Sidebar = () => {
           <h1>Let's findsome podcasts to follow</h1>
           <p className="font-light">we'll keep you update on new episodes</p>
           <button className="px-4 py-1.5 bg-white text-black rounded-full mt-4">
-            Browser podcasts
+            Browse podcasts
           </button>
         </div>
       </div>
