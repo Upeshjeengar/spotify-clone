@@ -70,20 +70,16 @@ After following the installation steps, open your browser and go to `http://loca
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](./![Screenshot 2024-08-25 143709](https://github.com/user-attachments/assets/5808f342-7ea0-4d33-ab59-3214c2598b23)
+![Screenshot 2024-08-25 143709](https://github.com/user-attachments/assets/5808f342-7ea0-4d33-ab59-3214c2598b23)
 
-(./![Screenshot 2024-08-25 144459](https://github.com/user-attachments/assets/b152ba87-ae05-4758-a24b-d22e8d6fd279)
+![Screenshot 2024-08-25 144459](https://github.com/user-attachments/assets/b152ba87-ae05-4758-a24b-d22e8d6fd279)
 
-(./![Screenshot 2024-08-25 144756](https://github.com/user-attachments/assets/ecef578d-1d9c-4504-89e8-713161b3e8c4)
-)
+![Screenshot 2024-08-25 144756](https://github.com/user-attachments/assets/ecef578d-1d9c-4504-89e8-713161b3e8c4)
 
-![Admin Panel Screenshot](./![Screenshot 2024-08-25 144918](https://github.com/user-attachments/assets/44ab7580-6f7d-4272-b3b8-530e0be5506b)
-)
-)
-![![Screenshot 2024-08-25 145016](https://github.com/user-attachments/assets/ed3273fb-560b-45ef-bd20-c2d101abb0e8)
-)
 
-[![Screenshot 2024-08-25 145016](https://github.com/user-attachments/assets/ed3273fb-560b-45ef-bd20-c2d101abb0e8)
-)
+![Screenshot 2024-08-25 144918](https://github.com/user-attachments/assets/44ab7580-6f7d-4272-b3b8-530e0be5506b)
+![Screenshot 2024-08-25 145016](https://github.com/user-attachments/assets/ed3273fb-560b-45ef-bd20-c2d101abb0e8)
 
-)
+
+![Screenshot 2024-08-25 145016](https://github.com/user-attachments/assets/ed3273fb-560b-45ef-bd20-c2d101abb0e8)
+
