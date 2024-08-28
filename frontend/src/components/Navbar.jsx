@@ -32,9 +32,14 @@ const Navbar = () => {
             className="bg-black py-1 px-3 rounded-2xl text-[15px] hidden md:block cursor-pointer">
               Install App
           </p>
-          <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">
-            UJ
+          <p 
+            onClick={() => window.location.href = "https:linkedin.com/in/upesh-jeengar"} 
+            className="bg-black py-1 px-3 rounded-2xl text-[15px] hidden md:block cursor-pointer">
+              UJ
           </p>
+          {/* <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">
+            UJ
+          </p> */}
         </div>
       </div>
       <div className="flex items-center gap-2 mt-4 ">
